@@ -26,12 +26,13 @@
   },
   "dependencies": {
     "js-yaml": "4.1.0",
-    "nan": "2.22.0"
+    "nan": "2.22.2"
   },
   "devDependencies": {
     "jsdoc-to-markdown": "9.1.1",
     "node-gyp": "11.0.0",
     "prettier": "3.4.2",
     "sandboxed-module": "2.0.4"
-  }
+  },
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
 }
